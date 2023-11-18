@@ -96,17 +96,17 @@ export const Projects = [
     {
         title: "Modern Next.js Website",
         text:"An animated website with the latest tech",
-        src: "NextWebsite.png",
+        src: "bg-2.jpg",
     },
     {
         title: "Modern Next.js Website",
         text:"An animated website with the latest tech",
-        src: "NextWebsite.png",
+        src: "bg.webp",
     },
     {
         title: "Modern Next.js Website",
         text:"An animated website with the latest tech",
-        src: "NextWebsite.png",
+        src: "mountains.jpg",
     },
 ];
 
